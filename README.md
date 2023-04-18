@@ -1,2 +1,0 @@
-# sipamsac.com
-SIPAM1
